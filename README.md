@@ -62,21 +62,21 @@
 ### 🔹 Plagiarism Analyzer & Detector
 🧠 *NLP-based Web Application*
 
-- Detects similarity between documents using NLP techniques  
-- Frontend: **HTML, CSS** | Backend: **Python Flask**  
-- Provides **real-time plagiarism analysis**
+- Detects similarity between text using NLP techniques  
+- Frontend: HTML, CSS | Backend: Python Flask  
+- Provides real-time plagiarism analysis.
 
 🔗 **Project Link:**  
 👉 https://github.com/yourusername/plagiarism-detector
 
 ---
 
-### 🔹 Animal Health Risk Disease Detection
+### 🔹 Animal Health Risk Detection using machine learning and deep learning
 🐄 *ML-based Disease Prediction System*
 
-- Predicts animal diseases based on input symptoms  
-- Trained ML models for **high prediction accuracy**  
-- Supports early disease identification and prevention
+- Predicts animal diseases based on input symptoms.  
+- Trained ML models for high prediction accuracy.  
+- Supports early disease identification and prevention.
 
 🔗 **Project Link:**  
 👉 https://github.com/yourusername/animal-disease-detection
@@ -102,7 +102,7 @@
 ---
 
 ## 📫 Contact Me
-
+📞 Phone: +91 8327703896
 📧 Email: **akhilsubudhi2004@gmail.com**  
 💼 LinkedIn: https://www.linkedin.com/in/akhil-subudhi-b79527276/  
 
